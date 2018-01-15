@@ -3,7 +3,9 @@
 ## About this project.
 
 (c),2017-2018 Savva Osipov, Ilya Osipov, Alex Pristenskiy
+
 https://www.hackster.io/savva-osipov/hola-connect-cloud-flash-drive-using-hologram-nova-8bbe07
+
 https://www.youtube.com/watch?v=lq3MIYBjRQQ&t=4s
 
 
