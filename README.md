@@ -2,6 +2,11 @@
 
 ## About this project.
 
+(c),2017-2018 Savva Osipov, Ilya Osipov, Alex Pristenskiy
+https://www.hackster.io/savva-osipov/hola-connect-cloud-flash-drive-using-hologram-nova-8bbe07
+https://www.youtube.com/watch?v=lq3MIYBjRQQ&t=4s
+
+
 In October of this year I applied for the electronics competition organized by Hackster.io and Hologram called The Hologram Nova Challenge. The idea I submitted was called Hola Connect! Me and my dad came up with the idea, and what it does is converts any unconnected device in a house to an Internet-of-Things device by using the Hologram Nova and Raspberry Pi. Essentially, it would make it where anything with a USB port is IoT capable : an old TV or an outdated car record player, or any other device with a USB port - a receiver, a projector, an MP3 player, etc.
 
 The device needs to have a USB input so it can be connected to any storage cloud, like a Dropbox folder or Google Drive folder.
